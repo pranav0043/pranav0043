@@ -20,7 +20,7 @@
   <a href="mailto:sp.pranav01@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/pranav-kumar" target="_blank">
+  <a href="www.linkedin.com/in/pranav-kumar0043" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/pranav0043" target="_blank">
