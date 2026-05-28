@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranav </h1>
-<h3 align="center">A passionate MCA Student & Developer from India 🇮🇳</h3>
+<h3 align="center">A passionate MCA Student & Developer from India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7F7&center=true&vCenter=true&width=435&lines=MCA+Student+%F0%9F%8E%93;Java+%26+DSA+Enthusiast+%E2%98%95;Cloud+Explorer+%E2%98%81%EF%B8%8F;Always+learning+new+things!" alt="Typing SVG" />
