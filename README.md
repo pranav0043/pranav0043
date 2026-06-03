@@ -49,21 +49,21 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav0043&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Pranav's GitHub Stats" width="48%"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=pranav0043&cc=000&tc=fff&ic=fff&bc=000" alt="Pranav's GitHub Stats" width="48%"/>
   <img src="https://streak-stats.demolab.com/?user=pranav0043&theme=tokyonight&hide_border=true" alt="Pranav's Streak" width="48%"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav0043&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" width="40%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranav0043&theme=tokyonight" alt="Top Languages" width="70%"/>
 </p>
 
 ---
-
-<h3 align="center">🏆 GitHub Trophies</h3>
+<h3 align="center">📈 GitHub Activity Graph</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranav0043&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav0043&theme=tokyo-night&hide_border=true" alt="activity graph"/>
 </p>
-
 ---
 
 <p align="center">
