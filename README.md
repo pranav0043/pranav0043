@@ -49,14 +49,12 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranav0043&show_icons=true&theme=tokyonight&hide_border=true" alt="Pranav's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav0043&theme=tokyonight&hide_border=true" alt="Pranav's Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pranav0043&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Pranav's GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=pranav0043&theme=tokyonight&hide_border=true" alt="Pranav's Streak" width="48%"/>
 </p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav0043&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav0043&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" width="40%"/>
 </p>
 
 ---
